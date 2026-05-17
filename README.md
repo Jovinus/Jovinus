@@ -39,6 +39,10 @@ My work sits between machine learning research and clinical deployment — how a
 
 A full, maintained list lives on my [homepage](https://kh.breathyou.care/publications/) and [Google Scholar](https://scholar.google.com/citations?user=T0DHr9QAAAAJ).
 
+> 🌟 **Featured — representative work** &nbsp;
+> **K. H. Lee**†, D. Yoon†, H. Lim, K.-B. Lee\*, Y. K. Lee\*. *Deep learning models for acute kidney injury prediction: multi-center external validation and evaluation under simulated continuous monitoring conditions.* **npj Digital Medicine**, 2026. [[DOI]](https://doi.org/10.1038/s41746-026-02722-2)
+> <br/><sub>† equal contribution · \* corresponding authors</sub>
+
 - **K. H. Lee**, C.-H. Cho, A. Y. Kim, H. J. Jeon, S. Byun. *Deep learning-based stress detection from RR intervals in major depressive disorder, panic disorder, and healthy individuals.* **Frontiers in Psychiatry**, 2025.
 - **K. H. Lee**, S. Hahn, H. Lim, K.-B. Lee, Y. K. Lee. *Development of a Labeling Algorithm for Early Prediction of Acute Kidney Injury.* **Studies in Health Technology and Informatics**, 2025.
 - **K. H. Lee**, H. Choo, S. Hong, S. Hong, K.-B. Lee, H. Cho. *Relationship between In-Hospital Sepsis Prediction Score and Prevalence of Community-Onset Sepsis.* **Applied Medical Informatics**, 2024.
