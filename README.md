@@ -1,4 +1,4 @@
-<h1 align="center">Kyung Hyun Lee &nbsp;<sub>이경현</sub></h1>
+<h1 align="center">Kyung Hyun Lee</h1>
 
 <p align="center">
   <em>AI Researcher at AITRICS · PhD Student in Digital Health at SAIHST, Sungkyunkwan University · Co-founder &amp; CEO of BreathYou</em><br/>
