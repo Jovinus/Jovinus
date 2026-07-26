@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://kh.breathyou.care"><img alt="Homepage" src="https://img.shields.io/badge/homepage-kh.breathyou.care-1f6feb?style=flat-square&logo=jekyll&logoColor=white"></a>
+  <a href="https://jovinus.github.io"><img alt="Homepage" src="https://img.shields.io/badge/homepage-jovinus.github.io-1f6feb?style=flat-square&logo=jekyll&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=T0DHr9QAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
   <a href="https://orcid.org/0000-0002-7010-5284"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--7010--5284-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kyunghyun-lee-7963a3184"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lkh256@breathyou.care"><img alt="Email" src="https://img.shields.io/badge/email-lkh256%40breathyou.care-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:lkh256@g.skku.edu"><img alt="Email" src="https://img.shields.io/badge/email-lkh256%40g.skku.edu-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 I'm a PhD student in **Digital Health** at [SAIHST, Sungkyunkwan University](https://www.saihst.kr/), advised by **Prof. Byung-Jae Lee**, and an **AI Researcher at [AITRICS](https://www.aitrics.com)**. In 2025 I co-founded [**BreathYou**](https://breathyou.care), a digital health startup focused on allergy and respiratory AI that turns parts of this research into products clinicians can use.
 
-My work sits between machine learning research and clinical deployment — how a model becomes a medical device, how it's trained, how it's validated, and how it earns regulatory trust. At AITRICS, I contributed to a cardiac arrest early-warning system that was approved by Korea's **MFDS** as an AI medical device, and I'm now leading the product development of an **AKI prediction model** I developed, with the same goal of MFDS approval. For my doctoral research, I work with longitudinal pulmonary function data from **Samsung Medical Center**, building time-series models that better capture how respiratory health changes over time.
+My work sits between machine learning research and clinical deployment — how a model becomes a medical device, how it's trained, how it's validated, and how it earns regulatory trust. At AITRICS, I contributed to a cardiac arrest early-warning system that was approved by Korea's **MFDS** as an AI medical device, and I'm now leading the product development of an **AKI prediction model** I developed — externally validated across multiple centers and published in *npj Digital Medicine* (2026) — with the same goal of MFDS approval. For my doctoral research, I work with longitudinal pulmonary function data from **Samsung Medical Center**, building time-series models that better capture how respiratory health changes over time.
 
 ### Research Interests
 
@@ -33,22 +33,37 @@ My work sits between machine learning research and clinical deployment — how a
 - 🫁 **DeepBreath CDSS** — predicting pulmonary function decline trajectories from longitudinal PFT data (BreathYou)
 - 📝 **MediPipe** — OCR / NLP pipeline for medical record structuring (BreathYou)
 - 🩺 **AKI prediction model** — leading product development toward MFDS approval (AITRICS)
-- 🫀 Transformer-based cardiac arrest & sepsis prediction for general wards, with a focus on prospective validation
+- 🫀 Transformer-based cardiac arrest & sepsis prediction for general wards — multicenter external validation under review (co-first)
 
 ### Selected Publications
 
-A full, maintained list lives on my [homepage](https://kh.breathyou.care/publications/) and [Google Scholar](https://scholar.google.com/citations?user=T0DHr9QAAAAJ).
+A full, maintained list lives on my [homepage](https://jovinus.github.io/publications/) and [Google Scholar](https://scholar.google.com/citations?user=T0DHr9QAAAAJ) — 25+ peer-reviewed papers, 440+ citations, h-index 8 (Jul 2026).
 
 > 🌟 **Featured — representative work** &nbsp;
-> **K. H. Lee**†, D. Yoon†, H. Lim, K.-B. Lee\*, Y. K. Lee\*. *Deep learning models for acute kidney injury prediction: multi-center external validation and evaluation under simulated continuous monitoring conditions.* **npj Digital Medicine**, 2026. [[DOI]](https://doi.org/10.1038/s41746-026-02722-2)
-> <br/><sub>† equal contribution · \* corresponding authors</sub>
+> **K. H. Lee**†, D. Yoon†, H. Lim, et al. *Deep learning models for acute kidney injury prediction: multi-center external validation and evaluation under simulated continuous monitoring conditions.* **npj Digital Medicine**, May 2026. [[DOI]](https://doi.org/10.1038/s41746-026-02722-2)
+> <br/><sub>† equal contribution</sub>
 
-- **K. H. Lee**, C.-H. Cho, A. Y. Kim, H. J. Jeon, S. Byun. *Deep learning-based stress detection from RR intervals in major depressive disorder, panic disorder, and healthy individuals.* **Frontiers in Psychiatry**, 2025.
-- **K. H. Lee**, S. Hahn, H. Lim, K.-B. Lee, Y. K. Lee. *Development of a Labeling Algorithm for Early Prediction of Acute Kidney Injury.* **Studies in Health Technology and Informatics**, 2025.
-- **K. H. Lee**, H. Choo, S. Hong, S. Hong, K.-B. Lee, H. Cho. *Relationship between In-Hospital Sepsis Prediction Score and Prevalence of Community-Onset Sepsis.* **Applied Medical Informatics**, 2024.
-- N. Kang, **K. H. Lee**, S. Byun, J.-Y. Lee, D.-C. Choi, B.-J. Lee. *Novel AI-based technology to diagnose asthma using methacholine challenge tests.* **Allergy, Asthma &amp; Immunology Research**, 2024.
-- **K. H. Lee**, S. Byun. *Age prediction in healthy subjects using RR intervals and HRV: a deep learning pilot.* **Applied Sciences**, 2023.
-- **K. H. Lee**, J. Y. Min, S. Byun. *EMG-based classification of hand and finger gestures using artificial neural networks.* **Sensors**, 2021.
+**First / co-first author**
+
+- S. Hong†, Y. Mun†, **K. H. Lee**†, et al. *Development of a Transformer-Based Cardiac Arrest Prediction Model for General Ward Patients.* **medRxiv** preprint, 2026. [[DOI]](https://doi.org/10.64898/2026.01.12.26343973)
+- J.-H. Kim†, **K. H. Lee**†, K. J. Kim, et al. *Validation of an artificial intelligence-based algorithm for predictive performance and risk stratification of sepsis using real-world data from hospitalised patients: a prospective observational study.* **BMJ Health &amp; Care Informatics**, 2025. [[DOI]](https://doi.org/10.1136/bmjhci-2024-101353)
+- **K. H. Lee**†, C.-H. Cho†, A. Y. Kim, et al. *Deep learning-based stress detection from RR intervals in major depressive disorder, panic disorder, and healthy individuals.* **Frontiers in Psychiatry**, 2025. [[DOI]](https://doi.org/10.3389/fpsyt.2025.1672260) · [[code]](https://github.com/Jovinus/HRV)
+- **K. H. Lee**, S. Hahn, H. Lim, et al. *Development of a Labeling Algorithm for Early Prediction of Acute Kidney Injury.* **MIE 2025** (Stud Health Technol Inform). [[DOI]](https://doi.org/10.3233/SHTI250415)
+- S. Y. Jae†, **K. H. Lee**†, H. J. Kim, et al. *Association between cardiorespiratory fitness and the trend of age-related rise in arterial stiffness.* **American Journal of Hypertension**, 2025. [[DOI]](https://doi.org/10.1093/ajh/hpae124)
+- N. Kang†, **K. H. Lee**†, S. Byun, et al. *Novel artificial intelligence-based technology to diagnose asthma using methacholine challenge tests.* **Allergy, Asthma &amp; Immunology Research**, 2024. [[DOI]](https://doi.org/10.4168/aair.2024.16.1.42) · [[code]](https://github.com/Jovinus/Asthma_study)
+- **K. H. Lee**, S. Byun\*. *Age prediction in healthy subjects using RR intervals and heart rate variability: a deep learning pilot study.* **Applied Sciences**, 2023. [[DOI]](https://doi.org/10.3390/app13052932) · [[code]](https://github.com/Jovinus/Autonomic_Aging)
+- S. Y. Jae†, **K. H. Lee**†, H. J. Kim, et al. *Separate and joint associations of cardiorespiratory fitness and healthy vascular aging with subclinical atherosclerosis in men.* **Hypertension**, 2022. [[DOI]](https://doi.org/10.1161/HYPERTENSIONAHA.122.19016)
+- **K. H. Lee**†, J. Y. Min†, S. Byun\*. *Electromyogram-based classification of hand and finger gestures using artificial neural networks.* **Sensors**, 2021. [[DOI]](https://doi.org/10.3390/s22010225)
+
+**Selected collaborations**
+
+- T. Sim†, E. Y. Cho†, J.-H. Kim, et al. *Prospective external validation of a deep-learning-based early-warning system for major adverse events in general wards in South Korea.* **Acute and Critical Care**, 2025. [[DOI]](https://doi.org/10.4266/acc.000525)
+- A. Choi†, K. Lee†, H. Hyun, et al. *A novel deep learning algorithm for real-time prediction of clinical deterioration in the emergency department for a multimodal clinical decision support system.* **Scientific Reports**, 2024. [[DOI]](https://doi.org/10.1038/s41598-024-80268-7)
+- S. W. Lee†, H.-C. Lee, J. Suh, et al. *Multi-center validation of machine learning model for preoperative prediction of postoperative mortality.* **npj Digital Medicine**, 2022. [[DOI]](https://doi.org/10.1038/s41746-022-00625-6)
+
+**Under review (2026)** — Transformer-based cardiac arrest prediction (multicenter external validation, co-first); explainable ML for ICU delirium, transfusion outcomes, and prolonged mechanical ventilation.
+
+<sub>† equal contribution · \* corresponding author</sub>
 
 ### Selected Recognition
 
@@ -82,4 +97,4 @@ A full, maintained list lives on my [homepage](https://kh.breathyou.care/publica
 
 I'm always happy to talk with people working on clinical AI, medical device development, SaMD regulatory pathways, or respiratory health — feel free to reach out.
 
-📍 Suwon, Gyeonggi-do, Republic of Korea &nbsp;·&nbsp; ✉️ `lkh256 [at] breathyou [dot] care`
+📍 Suwon, Gyeonggi-do, Republic of Korea &nbsp;·&nbsp; ✉️ `lkh256 [at] g [dot] skku [dot] edu`
