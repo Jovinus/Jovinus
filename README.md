@@ -1,7 +1,7 @@
 <h1 align="center">Kyung Hyun Lee</h1>
 
 <p align="center">
-  <em>AI Researcher at AITRICS · PhD Student in Digital Health at SAIHST, Sungkyunkwan University · Co-founder &amp; CEO of BreathYou</em><br/>
+  <em>AI Researcher at AITRICS · PhD Student in Digital Health at SAIHST, Sungkyunkwan University · Co-founder &amp; CEO of BreathYou · President, SKKU Lab Startup Club</em><br/>
   <sub>Clinical time-series deep learning · Medical AI regulation (SaMD) · Respiratory digital health</sub>
 </p>
 
@@ -17,7 +17,7 @@
 
 ### About
 
-I'm a PhD student in **Digital Health** at [SAIHST, Sungkyunkwan University](https://www.saihst.kr/), advised by **Prof. Byung-Jae Lee**, and an **AI Researcher at [AITRICS](https://www.aitrics.com)**. In 2025 I co-founded [**BreathYou**](https://breathyou.care), a digital health startup focused on allergy and respiratory AI that turns parts of this research into products clinicians can use.
+I'm a PhD student in **Digital Health** at [SAIHST, Sungkyunkwan University](https://www.saihst.kr/), advised by **Prof. Byung-Jae Lee**, and an **AI Researcher at [AITRICS](https://www.aitrics.com)**. In 2025 I co-founded [**BreathYou**](https://breathyou.care), a digital health startup focused on allergy and respiratory AI that turns parts of this research into products clinicians can use. BreathYou also runs as a **lab-based startup club at Sungkyunkwan University**, which I chair as president — bringing students into the path from lab research to a real product.
 
 My work sits between machine learning research and clinical deployment — how a model becomes a medical device, how it's trained, how it's validated, and how it earns regulatory trust. At AITRICS, I contributed to a cardiac arrest early-warning system that was approved by Korea's **MFDS** as an AI medical device, and I'm now leading the product development of an **AKI prediction model** I developed — externally validated across multiple centers and published in *npj Digital Medicine* (2026) — with the same goal of MFDS approval. For my doctoral research, I work with longitudinal pulmonary function data from **Samsung Medical Center**, building time-series models that better capture how respiratory health changes over time.
 
