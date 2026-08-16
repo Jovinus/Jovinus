@@ -51,8 +51,8 @@
   <g font-family="Arial, Helvetica, sans-serif">
     <text x="72" y="114" fill="#99F6E4" font-size="17" font-weight="600" letter-spacing="3">CLINICAL AI · DIGITAL HEALTH</text>
     <text x="68" y="190" fill="#F8FAFC" font-size="52" font-weight="700">Kyung Hyun Lee</text>
-    <text x="72" y="235" fill="#CBD5E1" font-size="23" font-weight="400">Research → Validation → Real-world care</text>
-    <rect x="72" y="271" width="194" height="38" rx="19" fill="#0F766E" fill-opacity="0.72" stroke="#5EEAD4" stroke-opacity="0.55"/>
-    <text x="169" y="296" fill="#ECFEFF" font-size="15" font-weight="600" text-anchor="middle">AI Researcher · Founder</text>
+    <text x="72" y="235" fill="#CBD5E1" font-size="23" font-weight="400">Machine learning for trustworthy clinical care</text>
+    <rect x="72" y="271" width="216" height="38" rx="19" fill="#0F766E" fill-opacity="0.72" stroke="#5EEAD4" stroke-opacity="0.55"/>
+    <text x="180" y="296" fill="#ECFEFF" font-size="15" font-weight="600" text-anchor="middle">AI Researcher · PhD Student</text>
   </g>
 </svg>
