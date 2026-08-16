@@ -1,0 +1,58 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kyung Hyun Lee — Clinical AI Researcher</title>
+  <desc id="desc">A dark blue and teal banner with a clinical waveform and connected data points.</desc>
+  <defs>
+    <linearGradient id="bg" x1="55" y1="16" x2="1143" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A2E"/>
+      <stop offset="0.52" stop-color="#0B2940"/>
+      <stop offset="1" stop-color="#0A4A55"/>
+    </linearGradient>
+    <linearGradient id="line" x1="760" y1="95" x2="1127" y2="267" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1020 95) rotate(136) scale(385 310)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D9488" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#0D9488" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
+
+  <g opacity="0.16" stroke="#A5F3FC">
+    <path d="M740 58H1160"/>
+    <path d="M740 110H1160"/>
+    <path d="M740 162H1160"/>
+    <path d="M740 214H1160"/>
+    <path d="M740 266H1160"/>
+    <path d="M740 318H1160"/>
+    <path d="M770 38V326"/>
+    <path d="M840 38V326"/>
+    <path d="M910 38V326"/>
+    <path d="M980 38V326"/>
+    <path d="M1050 38V326"/>
+    <path d="M1120 38V326"/>
+  </g>
+
+  <path d="M744 210H804L830 210L852 184L875 256L900 105L925 225L949 210H1002L1022 174L1045 210H1149" stroke="#2DD4BF" stroke-opacity="0.22" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
+  <path d="M744 210H804L830 210L852 184L875 256L900 105L925 225L949 210H1002L1022 174L1045 210H1149" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g fill="#A7F3D0">
+    <circle cx="804" cy="210" r="5"/>
+    <circle cx="900" cy="105" r="7"/>
+    <circle cx="1022" cy="174" r="5"/>
+    <circle cx="1149" cy="210" r="5"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="114" fill="#99F6E4" font-size="17" font-weight="600" letter-spacing="3">CLINICAL AI · DIGITAL HEALTH</text>
+    <text x="68" y="190" fill="#F8FAFC" font-size="52" font-weight="700">Kyung Hyun Lee</text>
+    <text x="72" y="235" fill="#CBD5E1" font-size="23" font-weight="400">Research → Validation → Real-world care</text>
+    <rect x="72" y="271" width="194" height="38" rx="19" fill="#0F766E" fill-opacity="0.72" stroke="#5EEAD4" stroke-opacity="0.55"/>
+    <text x="169" y="296" fill="#ECFEFF" font-size="15" font-weight="600" text-anchor="middle">AI Researcher · Founder</text>
+  </g>
+</svg>
